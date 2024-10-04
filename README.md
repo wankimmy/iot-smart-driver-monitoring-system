@@ -1,6 +1,11 @@
 # iot-smart-driver-monitoring-system
 
-| Feature                         | IoT Smart Driver Monitoring System | Advanced Driver Assist | SafeDrive Monitoring  | Mobileye (Project A)                  | Seeing Machines (Project B)           |
+- Advanced Driver Assist: Johnson, A., & Lee, M. (2021). https://www.researchgate.net/publication/376818302_Securing_the_Future_A_Comprehensive_Review_of_Security_Challenges_and_Solutions_in_Advanced_Driver_Assistance_Systems  Enhancing Road Safety: The Next Generation of Driver Assistance Technologies. Auto Safety Innovations. This book discusses various sensor-based technologies used in modern driver assistance systems.
+- SafeDrive Monitoring: https://www.researchgate.net/publication/337744285_A_Comprehensive_Survey_of_Driving_Monitoring_and_Assistance_Systems. This article explores the use of smartphone technology and behavioral analytics for monitoring driver behaviors.
+- Mobileye https://www.mobileye.com/
+- Seeing Machines https://seeingmachines.com/
+
+| Feature                         | IoT Smart Driver Monitoring System | Advanced Driver Assist | SafeDrive Monitoring  | Mobileye               | Seeing Machines        |
 |---------------------------------|------------------------------------|------------------------|----------------------|----------------------|----------------------|
 | **Technology Used**             | IoT (Raspberry Pi with camera module), machine learning (Google Teachable Machine), image recognition (OpenCV) | Sensor-based, AI | IoT, behavioral analytics | Advanced image recognition, AI       | Image recognition, AI, biometric sensors |
 | **Behavior Detection**          | Eye closure, head nodding, phone usage, posture and yawning | Eye closure, lane departure | Eye closure, phone usage, facial recognition |  Eye closure, lane departure          | Eye closure, head nodding, gaze tracking  |
